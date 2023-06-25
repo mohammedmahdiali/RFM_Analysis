@@ -1,6 +1,6 @@
 # RFM
 
-**RFM** is a strategy for analyzing and estimating the value of a customer, based on three data points: Recency (How recently did the customer make a purchase?), Frequency (How often do they purchase), and Monetary Value (How much do they spend?).
+**RFM** is a strategy for analyzing and estimating the value of a customer, based on three data points: **Recency** (How recently did the customer make a purchase?), **Frequency** (How often do they purchase), and **Monetary Value** (How much do they spend?).
 
 <img src="https://eep.io/images/yzco4xsimv0y/2psCWOt5z2dVGO2ILlQNTg/bccd98352d50e291b4b4107a903a29e2/MailChimp_Blog_Post_-19_Graphic_-1.png?w=980&fm=webp&q=70">
 
