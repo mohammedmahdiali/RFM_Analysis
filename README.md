@@ -12,4 +12,5 @@
 
 **Monetary value**: Monetary value refers to how much a customer spends within a given period. It's always important to consider because it can tell you a few things about consumer **behavior**. For example, you might find that customers with the highest monetary value don't purchase items as frequently as others but typically buy the most expensive products when they do.
 
-![image](https://github.com/mohammedmahdiali/RFM_Analysis/assets/97836524/7393ec2b-9463-49fc-8c16-fe96ecfc59a4)
+![image](https://github.com/mohammedmahdiali/RFM_Analysis/assets/97836524/7d7a5839-bf73-4546-8837-e7fcf8bc6572)
+
